@@ -1,0 +1,30 @@
+baseURL: 'https://zoayage.gradia.org/'
+languageCode: 'en-us'
+title: 'Zōayage'
+theme: 'gradia'
+
+menu:
+  main:
+    - name: Map
+      pageRef: /map/
+      weight: 1
+
+disablePathToLower: true
+capitalizeListTitles: false
+copyright: "&copy; 2000-2024 Justin C. Miller"
+enableGitInfo: true
+
+outputs:
+  home:
+  - html
+  - fvtt
+  page:
+  - html
+  - fvtt
+  section:
+  - html
+  taxonomy:
+  - html
+  term:
+  - fvtt
+  - html

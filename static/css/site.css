@@ -1,0 +1,29 @@
+:root {
+  --bg-dark: #202028;
+  --fg-light-trans: #72461b44;
+
+  --fg-lightest: #ddd;
+  --fg-light: #999;
+  --fg-light-trans: #72461b88;
+  --fg-mid: #445;
+  --fg-dark: #334;
+
+  --title-font: "Yozakura", system-ui;
+  --title-font-size: 1.25em;
+  --logo-font-size: 2rem;
+  --logo-margin-top: -0.2em;
+  --nav-font-size: 1.25rem;
+  --nav-margin-top: 0.25em;
+
+  --bg-image: url('/images/ricepaper.jpg');
+  --bg-image-height: 250px;
+}
+
+@font-face {
+    font-family: "Yozakura";
+    src: url("/fonts/YozakuraJP-Light.woff2") format("woff2");
+}
+
+nav {
+    margin-top: 8px;
+}

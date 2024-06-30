@@ -8,8 +8,9 @@
     {"group": "towns", "name": "Mirawabu", "pos": [1306.5, 836.9]},
     {"group": "towns", "name": "Nandaga", "pos": [1341.6,836.8]},
 
-    {"group": "states", "name": "Ohimaka", "pos": [1290,600]},
     {"group": "states", "name": "Kama", "pos": [1068,732]},
+    {"group": "states", "name": "Ohimaka", "pos": [1290,600]},
+    {"group": "states", "name": "Samakiso", "pos": [1400,975]},
 
     {"group": "features", "name": "Drogrun Island", "pos": [1320, 2200]},
 

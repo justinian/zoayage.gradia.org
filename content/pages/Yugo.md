@@ -9,7 +9,7 @@ mapMarkers:
   pos: 1300, 868
 ---
 
-{{< map target=1300,868 zoom=1.25 offset=0.5 alt="Overview" >}}
+{{< map target=1300,868 zoom=1.25 offset=0.5 >}}
 
 Yugo is a remote and province on the eastern side of the main island of Zōayage.
 Across the mountains from the hustle and political drama of the capitol, life in

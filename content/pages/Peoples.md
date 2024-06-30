@@ -127,7 +127,7 @@ proud and strong people, the Ashizuhin are divided on their opinions on
 integrating into Agehin society. Some have embraced it, while others stay to
 their own lands and resent the outsiders that have encroached on their lands.
 
-# Ueyagehin
+# Drogrun
 
 {{< sidebar class="race-info" >}}
 D&D Species

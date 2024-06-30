@@ -10,7 +10,7 @@
   --fg-mid: #445;
   --fg-dark: #334;
 
-  --map-font: "Kaushan Script", system-ui;
+  --map-font: "Artbrush", system-ui;
   --title-font: "Yozakura", system-ui;
   --title-font-size: 1.25em;
   --logo-font-size: 2rem;
@@ -29,6 +29,11 @@
 @font-face {
     font-family: "Yozakura";
     src: url("/fonts/YozakuraJP-Light.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Artbrush";
+    src: url("/fonts/Artbrush.woff2") format("woff2");
 }
 
 nav {
@@ -61,7 +66,7 @@ div.sidebar.race-info {
 
 .map-tooltip-states {
   color: #AAF !important;
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 .map-tooltip-cities {
@@ -79,5 +84,10 @@ div.sidebar.race-info {
 
 .map-tooltip-features {
   color: #DDD !important;
-  font-size: 2em;
+  font-size: 1.75em;
+}
+
+.map-tooltip-minorfeatures {
+  color: #DDD !important;
+  font-size: 1.5em;
 }

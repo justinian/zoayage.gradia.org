@@ -7,6 +7,7 @@ export const GROUPS = [
     {name: "sites", minZoom: 1.5, maxZoom: MAXZOOM, icon: '/images/chevron_marker.svg'},
     {name: "states", minZoom: 0, maxZoom: 2.5},
     {name: "features", minZoom: -1, maxZoom: 2.5},
+    {name: "minorfeatures", minZoom: 0.75, maxZoom: MAXZOOM},
 ];
 
 export const mapConfig = {

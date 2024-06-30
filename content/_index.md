@@ -2,7 +2,7 @@
 title: The Dragonfly Isles
 ---
 
-{{< map target=1260,645 zoom="-1" offset=0.5 only="html" >}}
+{{< map target=1260,645 zoom="-1" offset=0.75 only="html" >}}
 
 Zōayage, directly translated from the _Agehin_ tounge, is the _Isle of
 Dragonflies_. The name has come to refer to not just the northwestern island

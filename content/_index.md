@@ -2,15 +2,13 @@
 title: The Dragonfly Isles
 ---
 
-{{< map target=870,446 zoom=-0.5 only="html" >}}
+{{< map target=1260,645 zoom="-4" offset=1 only="html" >}}
 
 Zōayage, directly translated from the _Agehin_ tounge, is the _Isle of
 Dragonflies_. The name has come to refer to not just the northwestern island
 itself, but also the archipelago as a whole. It's a fantastical land inspired
 by a fusion of Japanese mythology, tales of the Japanese Sengoku period, and
 classic D&D tropes.
-
-{{< featured >}}
 
 # Meta
 

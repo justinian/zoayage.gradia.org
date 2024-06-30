@@ -1,19 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
 :root {
   --bg-dark: #202028;
-  --fg-light-trans: #72461b44;
+  --bg-light-trans: #9994;
 
   --fg-lightest: #ddd;
   --fg-light: #999;
-  --fg-light-trans: #72461b88;
+  --fg-light-trans: #9998;
   --fg-mid: #445;
   --fg-dark: #334;
 
+  --map-font: "Kaushan Script", system-ui;
   --title-font: "Yozakura", system-ui;
   --title-font-size: 1.25em;
   --logo-font-size: 2rem;
   --logo-margin-top: -0.2em;
   --nav-font-size: 1.25rem;
   --nav-margin-top: 0.25em;
+  --drop-cap-size: 1.25rem;
+  --drop-cap-padding: 0 6px 3px 0;
 
   --bg-image: url('/images/ricepaper.jpg');
   --bg-image-height: 250px;

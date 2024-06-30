@@ -3,6 +3,10 @@ languageCode: 'en-us'
 title: 'Zōayage'
 theme: 'gradia'
 
+params:
+  fvttName: zoayage-gradia-org
+  github: https://github.com/justinian/zoayage.gradia.org
+
 menu:
   main:
     - name: Map

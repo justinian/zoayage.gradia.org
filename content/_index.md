@@ -17,7 +17,7 @@ All of this content is also available as a [Foundry][] module! To add it, go to 
 button. Then copy the manifest file URL below, and paste it into the "Manifest URL"
 text box at the bottom of the window and click Install!
 
-https://github.com/justinian/gradia.org/releases/latest/download/module.json
+https://github.com/justinian/zoayage.gradia.org/releases/latest/download/module.json
 
 [Foundry]: https://foundryvtt.com
 

@@ -7,12 +7,6 @@ params:
   fvttName: zoayage-gradia-org
   github: https://github.com/justinian/zoayage.gradia.org
 
-menu:
-  main:
-    - name: Map
-      pageRef: /map/
-      weight: 1
-
 disablePathToLower: true
 capitalizeListTitles: false
 copyright: "&copy; 2000-2024 Justin C. Miller"

@@ -4,7 +4,10 @@ layout: page
 permalink: politics.html
 ---
 
-The lands of Zōayage are divided between three general political divisions.
+While sovereignty is not always clear-cut in the Dragonfly Isles, there are
+three main competing political powers that most polities in Zōayage pay at
+least some fealty to: the Shogun in **Kama**, the High Priestess in
+**Yoshima**, or the Ekh Khagan in **Krigh**.
 
 ## The Kama Shogunate
 

@@ -10,6 +10,9 @@ itself, but also the archipelago as a whole. It's a fantastical land inspired
 by a fusion of Japanese mythology, tales of the Japanese Sengoku period, and
 classic D&D tropes.
 
+- [The peoples of Zōayage](/pages/Peoples)
+- [The three main polities of Zōayage](/pages/Politics)
+
 # Meta
 
 All of this content is also available as a [Foundry][] module! To add it, go to the

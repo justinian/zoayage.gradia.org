@@ -17,6 +17,8 @@
 
   --bg-image: url('/images/ricepaper.jpg');
   --bg-image-height: 250px;
+
+  --site-width: 60rem;
 }
 
 @font-face {
@@ -26,4 +28,28 @@
 
 nav {
     margin-top: 8px;
+}
+
+div.sidebar.race-info {
+    width: 200px;
+
+    dl {
+        font-size: 0.75em;
+        display: flex;
+        flex-flow: row wrap;
+    }
+
+    dt {
+        flex-basis: 110px;
+        font-weight: bold;
+    }
+
+    dd {
+        flex-basis: 80px;
+        margin-left: 5px;
+    }
+
+    dt::after {
+        content: ":";
+    }
 }

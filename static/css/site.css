@@ -65,11 +65,21 @@ div.sidebar.race-info {
 }
 
 .map-tooltip-states {
-  color: #AAF !important;
+  color: #DDF8 !important;
   font-size: 1.5em;
+
+  text-shadow:
+    1px 0 3px #0008,
+    0 1px 3px#0008,
+    -1px 0 3px#0008,
+    0 -1px 3px#0008 !important;
 }
 
 .map-tooltip-cities {
+  font-size: 1.5em;
+}
+
+.map-tooltip-capitols {
   font-size: 2em;
 }
 

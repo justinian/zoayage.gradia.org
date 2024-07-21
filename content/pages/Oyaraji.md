@@ -4,7 +4,7 @@ description: Capitol city of Yugo Provice
 tags:
 - cities
 mapMarkers:
-- group: towns
+- group: cities
   pos: 1311.6, 911.9
 ---
 

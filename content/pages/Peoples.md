@@ -66,10 +66,10 @@ Agehin Name
 : Inyuhin
 
 Endonym
-: Kyathle
+: Nythean
 
 Language
-: Kyathle
+: Nythean
 
 D&D Language
 : Elvish

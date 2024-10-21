@@ -24,10 +24,10 @@ D&D Language
 {{< /sidebar >}}
 
 The _Agehin_ ("settler people") are thought to have arrived on the northwest
-island many hundreds of years ago. They now occupy most of the island, as well
-as most of the southwestern island and the western reaches of the eastern
-island. Most Agehin provinces pay fealty to the Shogun in **Kama**, though
-conflicts - and even wars - between them are still not uncommon.
+island well over a hundred years ago. They now occupy much of the island, as
+well as parts of the other major islands of the archipelago. Most Agehin
+provinces pay fealty to the Shogun in **Kama**, though conflicts - and even
+wars - between them are still not uncommon.
 
 Also of note is the group of provinces on the southwestern island that has
 broken away from the Kama Shogunate, and are instead loyal to the High

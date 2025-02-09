@@ -8,11 +8,11 @@ mapMarkers:
   pos: 1311.6, 911.9
 ---
 
-Oyaraji, the capital city of [Yugo Province](/pages/Yugo), stands as a stark
-contrast to the quaint, serene life in the smaller towns and villages scattered
-throughout the province. Encircled by formidable stone walls that have withstood
-both the ravages of time and the tumult of war, Oyaraji serves as the political
-heart and the bustling economic hub of the province.
+Oyaraji, the capital city of [Yugo Province](/pages/Yugo), stands as a
+stark contrast to the quaint, serene life in the smaller towns and villages
+scattered throughout the province. Encircled by formidable stone walls that have
+withstood both the ravages of time and the tumult of war, Oyaraji serves as the
+political heart and the bustling economic hub of the province.
 
 Upon entering through its grand gates, one is immediately swept up by the
 vibrancy of the city life. The main thoroughfare is lined with a variety of
@@ -32,7 +32,7 @@ city.
 
 The presence of the regent and his samurai is strongly felt in Oyaraji. Their
 patrols are frequent, and their attitudes often haughty, casting a slight pall
-over the city’s vibrancy. The tension between the citizens' pride in their rich
+over the city's vibrancy. The tension between the citizens' pride in their rich
 cultural heritage and the oppressive tactics of the current regime is palpable
 in the air.
 

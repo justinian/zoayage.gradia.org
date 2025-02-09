@@ -3,7 +3,7 @@ title: Yugo Province
 linkTitle: Yugo
 description: Remote eastern province on the main island
 tags:
-- locations
+- provinces
 mapMarkers:
 - group: states
   pos: 1300, 868
@@ -17,9 +17,9 @@ Yugo had been mostly quiet until about a year ago.
 
 Last year, the ruler of Yugo Province, Lord Kagae, was murdered along with all
 of his heirs during a midnight raid on [Oyraraji](/pages/Oyaraji) Castle. Lord
-Motōji, Lord of the neighboring [Samakiso Province](/pages/Samakiso) and long-time
-friend of Lord Kagae, petitioned the Shogun for regency of Yugo and has been regent
-of the province ever since.
+Motōji, Lord of the neighboring [Samakiso Province](/pages/Samakiso) and
+long-time friend of Lord Kagae, petitioned the Shogun for regency of Yugo and has
+been regent of the province ever since.
 
 However, Motōji's regency has not been a well-loved one. Where the former lord
 had been generous to his people, Motōji is a miser and takes as much as he can

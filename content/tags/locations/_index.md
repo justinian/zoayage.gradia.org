@@ -1,5 +1,5 @@
 ---
 title: Locations
 linkTitle: locations
-description: The provinces and other locations of the Dragonfly Isles
+description: Other locations of interest in the Dragonfly Isles
 ---

@@ -14,7 +14,7 @@
     {"group": "towns", "name": "Inomia", "pos": [1252.9,625.6]},
     {"group": "towns", "name": "Kamawagu", "pos": [1230.1,988.4]},
     {"group": "towns", "name": "Kima", "pos": [1325,433.6]},
-    {"group": "towns", "name": "Mirawabu", "pos": [1306.5, 836.9]},
+    {"group": "towns", "name": "Mira", "pos": [1306.5, 836.9]},
     {"group": "towns", "name": "Muxumita", "pos": [1451.6,982.1]},
     {"group": "towns", "name": "Nandaga", "pos": [1341.6,836.8]},
     {"group": "towns", "name": "Nishifune", "pos": [1195.5,578.8]},
@@ -62,7 +62,7 @@
     {"group": "minorfeatures", "name": "Mino-yage", "pos": [1257,403]},
     {"group": "minorfeatures", "name": "Tamikai-yage", "pos": [1003,1191]},
 
-    {"group": "sites", "name": "Sāiashizu Monastery", "pos": [1350,670]},
+    {"group": "sites", "name": "Saiashizu\nMonastery", "pos": [1350,670]},
 
     null
 ]

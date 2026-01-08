@@ -49,7 +49,6 @@
     {"group": "states", "name": "Misoko", "pos": [990,866]},
     {"group": "states", "name": "Notanu", "pos": [1200,987]},
     {"group": "states", "name": "Nyuma", "pos": [920,720]},
-    {"group": "states", "name": "Ohimaka", "pos": [1290,600]},
     {"group": "states", "name": "Reisa", "pos": [1140,895]},
     {"group": "states", "name": "Samakiso", "pos": [1417,975]},
     {"group": "states", "name": "Tano", "pos": [1116,535]},
@@ -59,7 +58,9 @@
     {"group": "features", "name": "Drogrun Island", "pos": [1320, 2200]},
 
     {"group": "minorfeatures", "name": "Aise-yage", "pos": [1400,1064]},
+    {"group": "minorfeatures", "name": "Kamakyora Sound", "pos": [1061,651]},
     {"group": "minorfeatures", "name": "Mino-yage", "pos": [1257,403]},
+    {"group": "minorfeatures", "name": "Minokyora Bay", "pos": [1303,454]},
     {"group": "minorfeatures", "name": "Tamikai-yage", "pos": [1003,1191]},
 
     {"group": "sites", "name": "Saiashizu\nMonastery", "pos": [1350,670]},

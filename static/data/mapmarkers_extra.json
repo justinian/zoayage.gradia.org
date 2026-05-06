@@ -5,6 +5,7 @@
 
     {"group": "cities", "name": "Hir Falas", "pos": [1583,355]},
     {"group": "cities", "name": "Nishifune", "pos": [1195.5,578.8]},
+    {"group": "cities", "name": "Nishigaki", "pos": [647.5,693.4]},
     {"group": "cities", "name": "Ohimaka", "pos": [1318,556]},
     {"group": "cities", "name": "Osta Duine", "pos": [1529,503]},
 
@@ -51,6 +52,7 @@
     {"group": "states", "name": "Mimanai", "pos": [1030,231]},
     {"group": "states", "name": "Mita", "pos": [1245,341]},
     {"group": "states", "name": "Misoko", "pos": [990,866]},
+    {"group": "states", "name": "Naoshiya", "pos": [659,803]},
     {"group": "states", "name": "Notanu", "pos": [1200,987]},
     {"group": "states", "name": "Nyuma", "pos": [920,720]},
     {"group": "states", "name": "Reisa", "pos": [1140,895]},
